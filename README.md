@@ -21,4 +21,8 @@ export default defineConfig({
 })
 ```
 
-## 
+## GitHub Repository
+
+1. Initialise the project directory as a Git repository with `git init`.
+
+2. 
