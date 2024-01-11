@@ -25,4 +25,9 @@ export default defineConfig({
 
 1. Initialise the project directory as a Git repository with `git init`.
 
-2. 
+2. Stage your changes by running `git add .` and make the initial commit with a message `git commit -m "Create React Vite project"`
+
+3. Publish your repository: `git remote add origin git@github.com:<accname>/<reponame>.git`
+
+4. Finally, push your changes: `git push -u origin main`
+
